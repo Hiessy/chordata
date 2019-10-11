@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chordata_2434.iml" filepath="$PROJECT_DIR$/.idea/modules/chordata_2434.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chordata_2434-build.iml" filepath="$PROJECT_DIR$/.idea/modules/chordata_2434-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/appointment.iml" filepath="$PROJECT_DIR$/.idea/modules/appointment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/appointment-api.iml" filepath="$PROJECT_DIR$/.idea/modules/appointment-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/appointment-build.iml" filepath="$PROJECT_DIR$/.idea/modules/appointment-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/appointment-impl.iml" filepath="$PROJECT_DIR$/.idea/modules/appointment-impl.iml" />
     </modules>
   </component>
 </project>

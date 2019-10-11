@@ -6,6 +6,14 @@
     <option name="linkedExternalProjectsSettings">
       <SbtProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/appointment-api" />
+            <option value="$PROJECT_DIR$/appointment-impl" />
+            <option value="$PROJECT_DIR$/project" />
+          </set>
+        </option>
         <option name="sbtVersion" value="1.2.1" />
         <option name="useQualifiedModuleNames" value="true" />
       </SbtProjectSettings>
