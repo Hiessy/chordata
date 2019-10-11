@@ -7,7 +7,7 @@
 		revision="1.0-SNAPSHOT"
 		conf="compile"
 		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, pom, scala-tool"
-		date="20191011080041"/>
+		date="20191011080622"/>
 	<dependencies>
 		<module organisation="com.lightbend.lagom" name="lagom-scaladsl-kafka-broker_2.12">
 			<revision name="1.4.11" status="release" pubdate="20190212122506" resolver="sbt-chain" artresolver="sbt-chain" homepage="https://www.lagomframework.com/" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="50">
